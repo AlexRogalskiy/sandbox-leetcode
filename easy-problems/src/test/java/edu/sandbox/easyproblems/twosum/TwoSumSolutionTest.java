@@ -1,5 +1,4 @@
-package ex.easy.problems.twosum;
-
+package edu.sandbox.easyproblems.twosum;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
